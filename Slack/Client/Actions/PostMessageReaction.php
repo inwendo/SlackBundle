@@ -57,10 +57,10 @@ class PostMessageReaction implements ActionsInterface
 
     /**
      * @param array $response
-     * @return boolean
+     * @return array
      */
     public function parseResponse(array $response)
     {
-        return  $response['ok'];
+        return  $response;
     }
 }

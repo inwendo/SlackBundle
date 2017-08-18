@@ -1,14 +1,18 @@
 {
-    "name": "dzunke/slack-bundle",
+    "name": "inwendo/slack-bundle",
     "description": "Symfony2 Integration for Slack - supporting Monolog",
     "keywords": ["symfony", "api", "bundle", "slack", "monolog", "logger", "messaging"],
-    "homepage": "https://github.com/DZunke/SlackBundle",
+    "homepage": "https://github.com/inwendo/SlackBundle",
     "license": "MIT",
     "minimum-stability": "dev",
     "authors": [
         {
             "name": "Denis Zunke",
             "email": "denis.zunke@gmail.com"
+        },
+        {
+            "name": "Enno Steppat",
+            "email": "enno@inwendo.de"
         }
     ],
     "archive": {

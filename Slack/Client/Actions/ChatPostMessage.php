@@ -24,6 +24,9 @@ class ChatPostMessage implements ActionsInterface
         'link_names'   => 1,
         'unfurl_links' => 1,
         'attachments'  => [],
+        'reply_broadcast' => 1,
+        'thread_ts' => null,
+        'as_user' => 0,
     ];
 
     /**
